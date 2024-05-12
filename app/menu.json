@@ -2,9 +2,9 @@
   "menu": [
     {
       "id": 1,
-      "title": "Greek Salad",
-      "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
-      "price": "10",
+      "title": " Tajine de légumes ",
+      "description": "le tajine classique cuit directement dans le plat à tajine, en terre cuite pendant des heures.",
+      "price": "100",
       "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
       "category": "starters"
     },
